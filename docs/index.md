@@ -6,13 +6,14 @@ description: "HOPE deduplication engine documentation."
 permalink: /
 ---
 
-Just the Docs gives your documentation a jumpstart with HOPE Deduplication engine and give you some useful tips.
+Here you can access a jumpstart guide for the HOPE Deduplication engine and some useful tips.
 {: .fs-6 .fw-300 }
 
-[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 
+[Get started now](#getting-started){: .btn .btn-primary .fs-5 .mb-4 .mb-md-0 .mr-2 }
 [View it on GitHub][HOPE Deduplication Engine repo]{: .btn .fs-5 .mb-4 .mb-md-0 }
 
+---
 
 
 ## Getting started
@@ -25,5 +26,4 @@ The service utilizes [Azure Blob Storage] for storing images and encodings.
 
 
 [HOPE Deduplication Engine repo]: https://github.com/unicef/hope-dedup-engine
-[Azure Blob Storage]
 [Azure Blob Storage]: {% link handbook/storages.md %}

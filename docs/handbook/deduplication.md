@@ -4,6 +4,20 @@ title: Deduplication
 nav_order: 2
 ---
 
+# Deduplication Worlflow
+{: .no_toc }
+
+<details open markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+  {: .text-delta }
+- TOC
+{:toc}
+</details>
+
+---
+
 ### Inference Mode Operation
 
 This application operates in inference mode, meaning it utilizes a pre-trained model for face recognition rather than training the model itself. The pre-trained model is stored in Azure Blob Storage and is downloaded by the application upon startup. Additionally, the model can be manually updated via the admin panel.
